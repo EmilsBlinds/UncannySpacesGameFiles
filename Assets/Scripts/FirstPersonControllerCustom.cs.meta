@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6733a57667203b9aba015eef5879eaf2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerCamera: {instanceID: 0}
+  - _staminaController: {instanceID: 0}
+  - walkingSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
